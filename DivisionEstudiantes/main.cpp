@@ -26,7 +26,6 @@ void randomGroups(vector<string> students, vector<string> topics, group groups[]
     int random = rand();
     int select = i%count;
     groups[select].students.push_back(students[random%fileSize(students)]);
-    cout << random%fileSize(students) << endl;
     students.erase(students.begin()+random%fileSize(students));
   }
   cout << "paso" << endl;
