@@ -2,4 +2,3 @@ lengua
 mate
 estadistica
 fisica
-quimica

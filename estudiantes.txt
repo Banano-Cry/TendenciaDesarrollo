@@ -6,3 +6,9 @@ jose
 fernanda
 paula
 pol
+max
+michael
+luisa
+pepe
+potasio
+carlos
