@@ -22,8 +22,8 @@ void printAllGroups(group group[], int count){
     for(string students : group[i].students)
       cout << "\t" << students << endl;
       cout << "Temas: " << endl;
-      for(string topics : group[i].topics)
-        cout << "\t" << topics << endl;
+    for(string topics : group[i].topics)
+      cout << "\t" << topics << endl;
       cout << "\n\n" <<endl;
   }
 }

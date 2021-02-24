@@ -1,4 +1,10 @@
-lengua
-mate
-estadistica
-fisica
+1) Agile (Basic or "Pure")
+2) Agile in the large: SAFe vs LeSS
+3) Scrum
+4) XP
+5) TDD
+6) OO Programming
+7) Functional Programming
+8) Distributed Version Control System
+9) Workspace design
+10) Remote Working and Studying
